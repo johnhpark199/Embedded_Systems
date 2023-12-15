@@ -6,7 +6,7 @@
 * authors   : John Park
 *           :
 * version   : 0.1
-* date      : 2023-NOV-??
+* date      : 2023-NOV-27
  * compiler  : STM32CubeIDE Version: 1.13.1 (2023)
 * target    : NUCLEO-L4A6ZG
  ******************************************************************************
