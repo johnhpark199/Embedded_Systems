@@ -3,6 +3,7 @@ projects for CPE329 (embedded systems):
 
 All projects done in STM32 CubeIDE on a NUCLEO-L4A6ZG board
 
+
 A1: Execution Timing 
 
 A2: 4x4 External Keypad
