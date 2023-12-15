@@ -1,21 +1,22 @@
-/* USER CODE BEGIN Header */
-/**
-  ******************************************************************************
-  * @file           : main.c
-  * @brief          : Main program body
-  ******************************************************************************
-  * @attention
-  *
-  * Copyright (c) 2023 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
-  *
-  ******************************************************************************
-  */
-/* USER CODE END Header */
+/*
+ ******************************************************************************
+* file      : main.c
+* project   : EE 329 F'23 A10
+* details   : EEPROM/I2C
+* authors   : John Park
+*           :
+* version   : 0.1
+* date      : 2023-DEC-5
+ * compiler  : STM32CubeIDE Version: 1.13.1 (2023)
+* target    : NUCLEO-L4A6ZG
+ ******************************************************************************
+ * revisions :
+* 2023-NOV-28 created.
+******************************************************************************
+* origins   :
+* modified from CubeIDE auto-generated main.c  (c) 2023 STMicro.
+* modified from EE329 Lab Manual Sample Code
+*
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "EEPROM.h"
