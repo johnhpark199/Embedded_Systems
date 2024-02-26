@@ -1,5 +1,5 @@
 # Embedded_Systems
-projects for CPE329 (embedded systems):
+projects for (embedded systems):
 
 All projects done in STM32 CubeIDE on a NUCLEO-L4A6ZG board
 
